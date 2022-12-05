@@ -6,8 +6,6 @@ Kaggle competition : https://www.kaggle.com/competitions/nlp-getting-started
 
 My email :👉 baptiste.cournault@gmail.com 👈
 
-Video link : 👉 https://share.vidyard.com/watch/skSMxyFtKTqLsW3PgyQ58F? 👈
-
 This particular challenge is perfect for data scientists looking to get started with Natural Language Processing
 
 ## Competition Description
